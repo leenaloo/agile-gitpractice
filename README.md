@@ -7,3 +7,8 @@ This article goes in depth about the difference between computer science and sof
 
 
 Accepted merge
+
+NEW CHANGE (from Leena Loo):
+I also find this article extremely interesting because after my first 2 years learning computer science, I realized that some of the skills were not what I had expected to learn when first going into it. After spending time in the industry, I completely agree with Professor that this is the only class that actually prepares you for Software Engineering.
+
+
